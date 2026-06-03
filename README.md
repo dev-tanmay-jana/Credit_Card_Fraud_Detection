@@ -1,0 +1,1 @@
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/ML-ScikitLearn-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"> </p>
