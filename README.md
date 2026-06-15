@@ -164,10 +164,7 @@ The model is optimized to:
 
 📌 Add screenshot here:
 
-```
-credit_card_FraudDetection.png
-
-```
+<img src= "credit_card_FraudDetection.png">
 
 ---
 
@@ -186,7 +183,7 @@ credit_card_FraudDetection.png
 
 **Tanmay Jana**
 
-* GitHub: [https://github.com/dev-tanmay-jana](https://github.com/dev-tanmay-jana)
+* GitHub: [https://github.com/dev-tanmay-jana](https://github.com/dev-tanmay-jana/Credit_Card_Fraud_Detection)
 * Project: Credit Card Fraud Detection System(https://cardguard-ai.streamlit.app/)
 
 ---
