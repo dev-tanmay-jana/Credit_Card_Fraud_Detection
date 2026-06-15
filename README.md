@@ -194,22 +194,5 @@ This project is licensed under the MIT License.
 
 ---
 
-# ⭐ Pro Tip (Important)
-
-To make your GitHub look **professional like top AI engineers**, do this next:
-
-### Add a banner image:
-
-* 1200×400 “Fraud Detection ML System”
-
-### Add GIF demo:
-
-* Screen recording of Streamlit app
-
-### Add live link:
-
-* Streamlit Cloud deployment
-
----
 
 
